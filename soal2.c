@@ -112,6 +112,11 @@ int main(){
         insert(&head2, data2);
     }
     struct gerbong *list3 = sort_merge(head1, head2);
-    cetak(list3);
+    if (list3 == NULL){
+        printf("MERGED EMPTY");
+    } else {
+        printf("MERGED ");
+        cetak(list3);
+    }
 
 }
