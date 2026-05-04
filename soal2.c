@@ -1,6 +1,6 @@
 /** EL2008 Praktikum Pemecahan Masalah dengan Pemrograman 2024/2025
- *   Modul               : 03 - Structures and Dynamics Arrayd
- *   Hari dan Tanggal    : Rabu, 29 April 2026
+ *   Modul               : 04 - Dynamic Structure
+ *   Hari dan Tanggal    : Rabu, 4 Mei 2026
  *   Nama (NIM)          : Kenny Pramanik Najla Wibowo (133224088)
  *   Nama File           : modul4.c
  *   Deskripsi           : Membuat program untuk merging 2 linked list yang awalnya terpisah satu sama lain, dengan ketentuan : 
