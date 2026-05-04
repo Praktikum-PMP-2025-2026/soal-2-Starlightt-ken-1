@@ -91,7 +91,6 @@ int main(){
     int data2;
 
     //banyak input datanya
-    printf("input banyak data1");
     scanf("%d", &n);
 
     int count1 = 0; 
@@ -105,7 +104,6 @@ int main(){
     }
 
     //banyak input datanya
-    printf("input banyak data2");
     scanf("%d", &m);
 
     //linked list 2
